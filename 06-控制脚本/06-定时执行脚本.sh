@@ -7,4 +7,4 @@
 # at [-f filename] time
 # -f选项指明使用哪个脚本 文件
 # -M选项来屏蔽作业产生的输出信息。
-at -f 4.sh 22:10
+at -f 01-捕捉信号.sh now
