@@ -1,0 +1,1 @@
+/home/tiandi/* is a file
